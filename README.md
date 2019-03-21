@@ -1,3 +1,10 @@
+## This app was built following the below tutorial:
+
+https://getstream.io/blog/takeaways-on-building-a-react-based-app-with-electron/
+
+
+==================== React readme ==========================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
